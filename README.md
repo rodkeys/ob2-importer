@@ -17,6 +17,10 @@ Import tool for outside apps into OpenBazaar 2.0.
 * Titles will be truncated to 140 characters
 * Categories will be truncated to 40
 
+### Shopify
+
+* Not currently working due to Shopify's admin panel being incompatible with Electron's Chrome build 
+
 ### eBay 
 
 * Not working yet
